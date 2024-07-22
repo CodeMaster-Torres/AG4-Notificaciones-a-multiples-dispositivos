@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173097435466",
+    "project_id": "pushservice-c0420",
+    "storage_bucket": "pushservice-c0420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173097435466:android:abeb91d674276946ec81b3",
+        "android_client_info": {
+          "package_name": "com.example.ag4_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD851JneNsKOKfYC3a-KaxgTg3Lhy9h04g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
