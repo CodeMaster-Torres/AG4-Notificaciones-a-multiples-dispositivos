@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "349843050943",
-    "project_id": "notipush-ag4",
-    "storage_bucket": "notipush-ag4.appspot.com"
+    "project_id": "ag4_push",
+    "storage_bucket": "ag4_push.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:349843050943:android:9266f2474dac4567ea910a",
         "android_client_info": {
-          "package_name": "com.example.ag4"
+          "package_name": "com.example.ag4_push"
         }
       },
       "oauth_client": [],
